@@ -1,9 +1,11 @@
-### Hi there 👋 sharkkkk
+# About me
+<p>
+🎓 I am a student at Chungbuk University: major in computer science. <br/><br/>
+📧 my_email_adress == sctoa1@gmail.com <br/><br/>
+😭 The image on the right is temp image :( <br/><br/>
+</p>
 
-<!--
-**SON-HYUN/SON-HYUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
