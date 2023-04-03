@@ -9,9 +9,9 @@
    
 # Subjects which I am learning
 <p>
-  > Algorithm PS with C => https://www.acmicpc.net/user/seh200 <br/>
-  > HTML/CSS now <br/>
-  > Data Structures, Computer Structures, OOP with C++, linear Algaebra in University
+  > Algorithm PS with C => https://www.acmicpc.net/user/seh200 <br/><br/>
+  > HTML/CSS now <br/><br/>
+  > Data Structures, Computer Structures, OOP with C++, linear Algaebra in University <br/><br/>
 </p>
 
 <br/><br/><br/><br/>
