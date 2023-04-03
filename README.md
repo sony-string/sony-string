@@ -25,7 +25,7 @@
 
 # Hobbys
 <p>
- ♔ I'd like to play chess sometimes. My <a href="https://chess.com">chess.com</a> <a href="https://www.chess.com/member/saengkimchi">profile</a> <br/>
+ ♔ I'd like to play chess sometimes. My chess.com <a href="https://www.chess.com/member/saengkimchi">profile</a> <br/>
  I always welcome all challenges :D <br/><br/>
  Algorithm PS is also one of my hobby now... <br/><br/>
  🎹 I learned piano in myself for 4 months in last year, but not now. (cuz, I live in the dormitory of university now :<)
