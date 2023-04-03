@@ -1,18 +1,30 @@
 # About me
 <p>
-🎓 I am a student at Chungbuk University: major in computer science. <br/><br/>
-📧 my_email_adress == sctoa1@gmail.com <br/><br/>
-😭 The image on the right is temp image :( <br/><br/>
+   <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
+  🎓 I am a student at Chungbuk University in Korea: major in computer science. <br/><br/>
+  📧 my_email_adress == sctoa1@gmail.com <br/><br/>
 </p>
 
-Here are some ideas to get you started
+# Subjects which I am learning
+<p>
+  > Algorithm PS with C => https://www.acmicpc.net/user/seh200 <br/>
+  > HTML/CSS now <br/>
+  > Data Structures, Computer Structures, OOP with C++, linear Algaebra in University
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects which I participate
+<p>
+  > will be updated but not now
+</p>
+
+# Hobbys
+<p>
+ ♔ I'd like to play chess sometimes. https://www.chess.com/member/saengkimchi <br/> I always welcome all challenges :D <br/><br/>
+ Algorithm PS is also one of my hobby now... <br/><br/>
+ 🎹 I learned piano in myself for 4 months in last year, but not now. (cuz, I live in the dormitory of university now :<)
+</p>
+  
+<a>
+   <a href="https://github.com/SON-HYUN"><img alt="SON-HYUN's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SON-HYUN&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
