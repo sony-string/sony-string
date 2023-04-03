@@ -2,7 +2,7 @@
 <p>
    <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
   🎓 I am a student at Chungbuk University in Korea: major in computer science. <br/><br/>
-  📧 my_email_adress == <a href="sctoa1@gmail.com">sctoa1@gmail.com <br/><br/>
+  📧 my_email_adress == <a href="sctoa1@gmail.com">sctoa1@gmail.com</a> <br/><br/>
 </p>
 
 <br/><br/><br/><br/>
@@ -25,7 +25,8 @@
 
 # Hobbys
 <p>
- ♔ I'd like to play chess sometimes. https://www.chess.com/member/saengkimchi <br/> I always welcome all challenges :D <br/><br/>
+ ♔ I'd like to play chess sometimes. My <a href="https://chess.com">chess.com</a> <a href="https://www.chess.com/member/saengkimchi">profile</a> <br/>
+ I always welcome all challenges :D <br/><br/>
  Algorithm PS is also one of my hobby now... <br/><br/>
  🎹 I learned piano in myself for 4 months in last year, but not now. (cuz, I live in the dormitory of university now :<)
 </p>
