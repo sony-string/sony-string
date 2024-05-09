@@ -10,8 +10,8 @@
 # Subjects which I am learning
 <p>
   > Algorithm PS with C => https://www.acmicpc.net/user/seh200 <br/><br/>
-  > HTML/CSS now <br/><br/>
-  > Data Structures, Computer Structures, OOP with C++, linear Algaebra in University <br/><br/>
+  > Machine Learning (especially, LLM with DL)
+  > Sometimes seeing the cppreference site to learn spec of C/C++
 </p>
 
 <br/><br/><br/><br/>
@@ -28,7 +28,7 @@
  ♔ I'd like to play chess sometimes. My chess.com <a href="https://www.chess.com/member/saengkimchi">profile</a> <br/>
  I always welcome all challenges :D <br/><br/>
  Algorithm PS is also one of my hobby now... <br/><br/>
- 🎹 I learned piano in myself for 4 months in last year, but not now. (cuz, I live in the dormitory of university now :<)
+ 🎹 I learned piano in myself for 4 months in last year, but not now.
 </p>
   
 <br/><br/><br/><br/>
