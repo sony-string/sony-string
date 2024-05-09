@@ -1,3 +1,6 @@
+# blog : 
+<https://sony-string.github.io/>
+
 # About me
 <p>
    <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
