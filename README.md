@@ -1,4 +1,4 @@
-# blog : 
+# blog 
 <https://sony-string.github.io/>
 
 # About me
