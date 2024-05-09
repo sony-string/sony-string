@@ -38,6 +38,6 @@
 <br/><br/><br/><br/>
    
 <a>
-   <a href="https://github.com/SON-HYUN"><img alt="SON-HYUN's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SON-HYUN&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+   <a href="https://github.com/sony-string"><img alt="sony-string's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sony-string&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
