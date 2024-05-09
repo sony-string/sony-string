@@ -1,4 +1,4 @@
-# blog 
+# Blog 
 <https://sony-string.github.io/>
 
 # About me
@@ -6,6 +6,7 @@
    <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
   🎓 I am a student at Chungbuk University in Korea: major in computer science. <br/><br/>
   📧 my_email_adress == <a href="sctoa1@gmail.com">sctoa1@gmail.com</a> <br/><br/>
+  🔗 Blog == <https://sony-string.github.io/>
 </p>
 
 <br/><br/><br/><br/>
