@@ -6,6 +6,7 @@
   🎓 In the middle of a bachelor's course: major in computer science. 
   <br/><br/>   
   📧 my_email_adress == <a href="sctoa1@gmail.com">sctoa1@gmail.com</a>
+  📧 dis-cord name : Gurum
   <br/><br/>   
   🔗 Blog == https://sony-string.github.io/
 
