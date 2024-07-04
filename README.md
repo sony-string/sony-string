@@ -15,7 +15,7 @@
 # Subjects which I am learning
 <p>
   > competitive programming and solve algorithm problems with C++ => <br/> https://www.acmicpc.net/user/seh200 <br/> https://codeforces.com/profile/clc26765 <br/><br/>
-  > Machine Learning (especially, LLM with DL)
+  > Machine Learning (especially, LLM with DL) <br/><br/>
   > Sometimes seeing the cppreference site to learn spec of C/C++
 </p>
 
