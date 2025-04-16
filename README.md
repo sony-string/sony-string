@@ -20,19 +20,11 @@
 
 <br/><br/><br/><br/>
 
-# Projects which I participate
-<p>
-  > will be updated but not now
-</p>
-
-<br/><br/><br/><br/>
-
 # Hobbys
 <p>
  ♔ I'd like to play chess sometimes. My chess.com <a href="https://www.chess.com/member/saengkimchi">profile</a> <br/>
  I always welcome all challenges :D <br/><br/>
  Algorithm problem solving is also one of my hobby now... <br/><br/>
- 🎹 I played problem , but not now.
 </p>
   
 <br/><br/><br/><br/>
