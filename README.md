@@ -10,7 +10,9 @@
   <br/><br/>   
   🔗 Blog == https://sony-string.github.io/
 
-<br/><br/><br/><br/>
+  
+<br/>  
+I urarely pdate my blog.<br/><br/><br/><br/>
    
 # Subjects which I am learning
 <p>
