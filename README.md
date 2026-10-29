@@ -3,7 +3,11 @@
 
 # About me
    <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
-  🎓 In the middle of a bachelor's course: major in computer science. 
+  🎓 B.S. in Computer Science (graduated 2026)
+  <br/>
+  🌱 Trainee at AI SW Maestro 17th
+  <br/>
+  🛠️ Backend developer (Java + Spring)
   <br/><br/>   
   📧 my_email_adress == <a href="sctoa1@gmail.com">sctoa1@gmail.com</a>
   📧 dis-cord name : Gurum
@@ -12,6 +16,13 @@
 
 <br/><br/><br/><br/>
    
+# Projects
+<p>
+  > <b>Yris</b> (2026.06 ~ ) — AI SW Maestro 17th, team <a href="https://github.com/fact-is-development-gets-healthy">fact-is-development-gets-healthy</a> <br/> https://yris.live/landing
+</p>
+
+<br/><br/><br/><br/>
+
 # Subjects which I am learning
 <p>
   > competitive programming and solve algorithm problems with C++ => <br/> https://www.acmicpc.net/user/seh200 <br/> https://codeforces.com/profile/clc26765 <br/><br/>
@@ -25,6 +36,9 @@
  ♔ I'd like to play chess sometimes. My chess.com <a href="https://www.chess.com/member/saengkimchi">profile</a> <br/>
  I always welcome all challenges :D <br/><br/>
  Algorithm problem solving is also one of my hobby now... <br/><br/>
+ 🎮 I play video games: War Thunder, Elden Ring, Civilization VI, etc. <br/><br/>
+ 📺 I watch anime. All-time favorite: Sound! Euphonium <br/><br/>
+ 🎵 I mostly listen to J-pop. Lately: <a href="https://www.youtube.com/watch?v=jSNmQt7QNBc">ゾンビゾンビゾンビ / 星街すいせい</a> <br/><br/>
 </p>
   
 <br/><br/><br/><br/>
